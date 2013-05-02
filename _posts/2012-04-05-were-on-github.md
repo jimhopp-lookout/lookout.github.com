@@ -8,7 +8,7 @@ tags:
 ---
 
 
-At [Lookout](http://mylookout.com/about/careers) we use a *lot* of open source
+At [Lookout](https://lookout.com/about/careers) we use a *lot* of open source
 software throughout engineering.
 
 <a href="https://github.com/lookout" target="_blank"><img
